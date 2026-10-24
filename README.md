@@ -1,14 +1,14 @@
 
 <!-- TOP DECORATION -->
 <p align="center">
-  <img src="assets/divider-top.gif" width="85%" alt="">
+  <img src="assets/IMG_3803.gif" width="85%" alt="">
 </p>
 
 <!-- HEADER -->
-<h1 align="center">WELCOME TO MY LITTLE<br>
-CORNER OF THE INTERNET</h1>
 
 <p align="center">
+︶֪︶︶֪︶︶︶֪︶︶֪︶︶ིྀ︶︶֪︶︶︶֪︶︶֪︶︶֪
+  
   not me! the person who you believe me to be.
 </p>
 
@@ -16,17 +16,15 @@ CORNER OF THE INTERNET</h1>
   <img src="assets/spinner.gif" width="65%" alt="decorative scrolling text">
 </p>
 
-<br>
-
 <!-- PROFILE IMAGE -->
-<img align="right" width="43%" src="assets/main-image.png" alt="Main illustration">
+
+<img align="right" width="43%" src="assets/IMG_4588.jpeg" alt="Main illustration">
 
 <!-- PROFILE TEXT -->
-<h2>NAME / NAME</h2>
+
+# sylvia / sancho
 
 <code>pronouns / nouns</code>
-
-<br><br>
 
 <b>01. introduction</b>
 
@@ -34,9 +32,8 @@ hello, i'm [name]!
 
 [a short introduction about yourself.]
 
-<br>
 
-<b>02. interests</b>
+02. interests
 
 [art] / [writing] / [games]
 
@@ -47,7 +44,7 @@ hello, i'm [name]!
 <!-- STAMP -->
 <p align="center">
   <img src="assets/stamp.png" width="100" alt="personal stamp">
-  <br>
+  
   <sub>figure 01. [image caption / title]</sub>
 </p>
 
