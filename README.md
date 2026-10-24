@@ -30,15 +30,29 @@
 
 </p>
 
-<img align="right" width="43%" src="assets/IMG_4588.jpeg" alt="Main illustration">
+<img align="right" width="43%" src="assets/IMG_4588.jpeg" alt="pfp">
+
+<sub>figure. [ic : ]</sub>
+</p>
 
 <!-- PROFILE TEXT -->
 
 # 𐔌 . ᥉ᥡᥣ᥎ιᥲ ╱ ᥉ᥲᥒᥴh᥆ ﹒♡
 
-<code>pronouns / nouns</code>
+<code>she ⠀̸ they (• ⩊ •)</code>
 
-<b>01. introduction</b>
+<p align=“left”>
+</p>
+
+![](https://komarev.com/ghpvc/?username=yurinpd&color=EACD83)
+
+<p align=“center”>
+
+𐔌　𓋫　𓌔　ᛝ　𓏵　໒ྀི　℘　𓎢𓎟𓎡　𓇯　𓉸　◞ ྀི
+
+</p>
+
+
 
 hello, i'm [name]!
 
@@ -57,13 +71,6 @@ hello, i'm [name]!
 <p align="center">
   <img src="assets/stamp.png" width="100" alt="personal stamp">
   
-  <sub>figure 01. [image caption / title]</sub>
-</p>
-
-<!-- PROFILE COUNTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=8b2020&label=profile+views" alt="profile views">
-</p>
 
 <p align="center">
   <a href="#about">book</a> /
