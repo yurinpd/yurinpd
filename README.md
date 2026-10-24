@@ -7,9 +7,15 @@
 <!-- HEADER -->
 
 <p align="center">
-︶֪︶︶֪︶︶︶֪︶︶֪︶︶ིྀ︶︶֪︶︶︶֪︶︶֪︶︶֪
+𐔌　𓋫　𓌔　ᛝ　𓏵　໒ྀི　℘　𓎢𓎟𓎡　𓇯　𓉸　◞ ྀི
+
   
-  not me! the person who you believe me to be.
+   𓏼̶̥̥ᣟ݂𓂂 ˳͡🍭ꪆ  ᥒ᥆𝗍 mᥱ.ᐟ 𝗍һᥱ ⍴ᥱrs᥆ᥒ ᥕһ᥆ ᥡ᥆ᥙ ᑲᥱᥣіᥱ᥎ᥱ mᥱ 𝗍᥆ ᑲe 𓈒  𓏼ׅ ۟ ◜ ͡  🐾𑙒
+
+</p> 
+
+<p align="right">
+  ⑅ 𑑛 ྀི ꒰꛱𓈒ֺּׅ ̫ ¦ ͜͝ | ꒱  𓏼♡֯ ̣̣̥ 𓏪̣̣ ♪⃞‏᧓ໃ ͝ ◡◡‿
 </p>
 
 <p align="center">
@@ -18,11 +24,17 @@
 
 <!-- PROFILE IMAGE -->
 
+<p align=“center”>
+
+𐔌　𓋫　𓌔　ᛝ　𓏵　໒ྀི　℘　𓎢𓎟𓎡　𓇯　𓉸　◞ ྀི
+
+</p>
+
 <img align="right" width="43%" src="assets/IMG_4588.jpeg" alt="Main illustration">
 
 <!-- PROFILE TEXT -->
 
-# sylvia / sancho
+# 𐔌 . ᥉ᥡᥣ᥎ιᥲ ╱ ᥉ᥲᥒᥴh᥆ ﹒♡
 
 <code>pronouns / nouns</code>
 
