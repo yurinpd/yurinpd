@@ -1,7 +1,7 @@
 
 <!-- TOP DECORATION -->
 <p align="center">
-  <img src="assets/IMG_3803.gif" width="85%" alt="">
+  <img src="assets/IMG_3803.gif" width="85%" alt="hello">
 </p>
 
 <!-- HEADER -->
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/spinner.gif" width="65%" alt="decorative scrolling text">
+  <img src="assets/IMG_4618.png" width="65%" alt="decorative">
 </p>
 
 <!-- PROFILE IMAGE -->
@@ -32,12 +32,14 @@
 
 <img align="right" width="43%" src="assets/IMG_4588.jpeg" alt="pfp">
 
-<sub>figure. [ic : ]</sub>
 </p>
 
 <!-- PROFILE TEXT -->
 
+
 # 𐔌 . ᥉ᥡᥣ᥎ιᥲ ╱ ᥉ᥲᥒᥴh᥆ ﹒♡
+
+<sub>[ic : help me find it plz]</sub>
 
 <code>she ⠀̸ they (• ⩊ •)</code>
 
@@ -51,7 +53,6 @@
 𐔌　𓋫　𓌔　ᛝ　𓏵　໒ྀི　℘　𓎢𓎟𓎡　𓇯　𓉸　◞ ྀི
 
 </p>
-
 
 
 hello, i'm [name]!
