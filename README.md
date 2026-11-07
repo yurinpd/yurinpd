@@ -25,7 +25,7 @@
 
 <p align=“center”><details>
   <summary>  <img src="assets/IMG_5078.png" width="50"alt="yurinpd"></summary>
-  <img src="assets/IMG_5076.jpeg" width="95%"alt="yurinpd">
+  <img src="assets/IMG_5076.jpeg" width="95%"alt="yurinpd"> by pony-town-nominations
 </details></p>
 
 
