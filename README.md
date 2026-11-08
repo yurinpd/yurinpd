@@ -18,6 +18,7 @@
 [fluffle](https://fluffle.cc/lasangredesancho)
 [ata](https://bloodhail.atabook.org)
 [patreon](https://patreon.com/cw/hazella)
+[guns](https://guns.lol/silliestsylvia)
 
 </div>
 
