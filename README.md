@@ -26,7 +26,6 @@
 
 <p align=“center”><details>
   <summary>  <img src="assets/IMG_5078.png" width="50"alt="yurinpd"></summary>
-  **Doubles dni**
   <img src="assets/IMG_5076.jpeg" width="95%"alt="yurinpd"> by pony-town-nominations
   <img src="assets/IMG_5149.jpeg" width="95%"alt="yurinpd"> by every-pony
     <img src="assets/IMG_5451.jpeg" width="95%"alt="yurinpd"> by ponytowns-rewards
