@@ -31,6 +31,7 @@
   <img src="assets/IMG_5149.jpeg" width="95%"alt="yurinpd"> by every-pony
     <img src="assets/IMG_5451.jpeg" width="95%"alt="yurinpd"> by ponytowns-rewards
 </details></p>
-
-
 </div>
+
+<p align=“center”> i will actively hide fictionkin doubles fyi
+</p>
