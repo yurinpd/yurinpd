@@ -26,12 +26,14 @@
 
 <p align=“center”><details> 
   <summary>  <img src="assets/IMG_5078.png" width="50"alt="yurinpd"></summary>
-  <img src="assets/IMG_5076.jpeg" width="95%"alt="yurinpd"> by pony-town-nominations
+lots of thanks for all the titles!!! <33
+   <img src="assets/IMG_5076.jpeg" width="95%"alt="yurinpd"> by pony-town-nominations
+  <img src="assets/IMG_5555.jpeg" width="95%"alt="yurinpd"> by pt-walk-of-fame
       <img src="assets/IMG_5501.jpeg" width="95%"alt="yurinpd"> by piddlesjet
   <img src="assets/IMG_5149.jpeg" width="95%"alt="yurinpd"> by every-pony
     <img src="assets/IMG_5451.jpeg" width="95%"alt="yurinpd"> by ponytowns-rewards
 </details></p>
 </div>
 
-<p align=“center”> i will actively hide fictionkin doubles fyi
+<p align=“center”>
 </p>
